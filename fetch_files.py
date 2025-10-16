@@ -2,7 +2,7 @@ import requests
 
 username = "hisham-ux"
 repo = "python-repo"
-folder = "MY-SQL"
+folder = "my-sql"
 
 url = f"https://api.github.com/repos/{username}/{repo}/contents/{folder}"
 
